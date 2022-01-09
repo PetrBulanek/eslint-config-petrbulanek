@@ -1,0 +1,12 @@
+{
+  "name": "eslint-config-petrbulanek",
+  "version": "0.0.1",
+  "description": "ESLint and Prettier config from Petr Bulánek",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:PetrBulanek/eslint-config-petrbulanek.git"
+  },
+  "author": "Petr Bulánek <bulanek.petr@gmail.com>",
+  "license": "MIT"
+}
